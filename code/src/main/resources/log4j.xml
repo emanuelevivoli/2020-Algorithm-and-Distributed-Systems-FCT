@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="INFO" shutdownHook="disable">
+	<Appenders>
+		<Console name="Console" target="SYSTEM_OUT">
+			<PatternLayout pattern="%highlight{%level{length=1}[%d{HH:mm:ss,SSS}] [%t]%logger{0}:} %msg%n"/>
+		</Console>
+
+	</Appenders>
+
+	<Loggers>
+		<!-- Log levels are: DEBUG -> INFO -> WARN -> ERROR -->
+		<Root level="WARN"> <!-- change to DEBUG (here and following line) to see all logging information -->
+			<AppenderRef ref="Console" level="warn"/>
+		</Root>
+	</Loggers>
+</Configuration>
