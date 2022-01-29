@@ -28,7 +28,7 @@ The Folders are structured as follow:
   - **documentation**: `./docs/ASD_Project_Phase1.pdf`
   - **schema**: 
         <p align="center">
-            <img src="img/phase1.png" alt="Phase 1" width="500"/>
+            <img src="img/Phase1.png" alt="Phase 1" width="500"/>
         </p>
 
 - Phase 2
@@ -43,7 +43,7 @@ The Folders are structured as follow:
   - **documentation**: `./docs/ASD_Project_Phase2.pdf`
   - **schema**: 
         <p align="center">
-            <img src="img/phase2.png" alt="Phase 2" width="500"/>
+            <img src="img/Phase2.png" alt="Phase 2" width="700"/>
         </p>
 - Phase 3
   - **arguments**:
@@ -57,7 +57,7 @@ The Folders are structured as follow:
   - **documentation**: `./docs/ASD_Project_Phase3.pdf`
   - **schema**: 
         <p align="center">
-            <img src="img/phase3.png" alt="Phase 3" width="500"/>
+            <img src="img/Phase3.png" alt="Phase 3" width="600"/>
         </p>
 
 
